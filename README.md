@@ -89,6 +89,7 @@ All resources are freely available except those with a 💲 icon.
 * [Almost Fun](https://www.almostfun.org/lessons/)
 * [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics)
 * [Math Academy](https://mathacademy.com/)
+* [Derivative Calculus Solver](https://www.derivativecalculus.com) — A step-by-step differentiation tool focusing on the chain rule and substitution logic.
 
 ## Learn to Learn
 
@@ -644,3 +645,4 @@ All resources are freely available except those with a 💲 icon.
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) has waived all copyright and related or neighboring rights to this work.
+Add Derivative Calculus Solver to Software section,
